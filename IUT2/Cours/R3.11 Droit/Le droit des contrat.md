@@ -242,7 +242,7 @@ Il existe une possibilité de requalifier un contrat, quel que soit l'appellatio
 
 Cette requalification a des conséquences car elle permet à celui reconnu salarié de bénéficier des avantages propres à ce statut notamment le droit aux indemnités lié au licenciement 
 
-<h3>B. Les différents types de contrat des travail</h3> 
+<h3> B. Les différents types de contrat des travail </h3> 
 
 Tous les contrats de travail sont des contrats de droit livré donc pour être valablement conclus ils doivent suivre les condition général de validité du contrat de travail. Il faut avoir la capacité juridique le contenu doit être certain et licite
 
