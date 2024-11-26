@@ -219,10 +219,75 @@ Le consommateur est remboursé sans pénalité, sauf frais de retour à sa charg
 <h4>Clause de non-concurrence</h4>
 <p>La clause de non-concurrence interdit au salarié de travailler pour un concurrent ou de s'établir à son compte dans un domaine concurrent, après la fin de son contrat. Cette clause protège les intérêts commerciaux de l’employeur mais peut limiter la liberté du salarié. Elle doit respecter certaines conditions de validité, notamment la nécessité d'être justifiée par l'intérêt de l'entreprise.</p>
 
-<h2>3. Modifications du rapport d’emploi</h2>
+# 3. Modifications du Rapport d'Emploi
 
-<h3>Les modifications affectant le travail du salarié</h3>
-<p>L’employeur peut modifier la situation professionnelle du salarié. Selon la nature de la modification, les conséquences juridiques peuvent varier. Les changements importants peuvent nécessiter un accord du salarié.</p>
+## Les modifications affectant le travail du salarié
 
-<h3>La modification de la situation juridique de l’employeur : le transfert d’entreprise</h3>
-<p>Une entreprise peut être amenée à se restructurer suite à une fusion, une acquisition, ou une cession d’actifs. Dans ce cas, les contrats de travail sont transférés au nouvel employeur, qui doit respecter les conditions de travail existantes et payer les éventuels impayés. Toutefois, des licenciements peuvent être envisagés en cas de difficultés économiques, mais cette dérogation ne s’applique qu’aux entreprises de plus de 50 salariés.</p>
+L'employeur peut modifier la situation professionnelle de son salarié. Selon la nature du changement, la qualification juridique n’est pas la même. Il peut s'agir :
+
+- **D'une simple modification des conditions de travail**  
+- **D'une modification du contrat**  
+
+Les conséquences juridiques de ces modifications sont différentes.  
+Les modifications lourdes peuvent nécessiter l'accord de l'employé.
+
+## La modification de la situation juridique de l'employeur : Le transfert d'entreprise
+
+La situation de l’employeur n’est pas figée. L’entreprise peut être amenée à se restructurer suite à une fusion, une acquisition, une cession d’actifs, etc.  
+Le rachat d’une entreprise par une autre donne lieu à un transfert de propriété vers un nouvel acquéreur. 
+
+### Le principe du maintien des contrats de travail en cours
+
+Les contrats continuent de produire leurs effets lors du transfert d'entreprise, même si le nouvel employeur n’a pas signé de nouveaux contrats avec les salariés. Ce dernier doit reprendre les salariés de son prédécesseur et respecter leurs contrats en cours, y compris le paiement des impayés s’il y a lieu.  
+Cependant, une dérogation permet des licenciements en cas de difficultés pour l’entreprise. Cette dérogation s'applique seulement aux entreprises de **50 salariés ou plus**, et les transferts de contrats concernent uniquement les salariés non licenciés.
+
+---
+
+# Chapitre 5 : Le Domaine de Protection du Salarié
+
+## Individualisation des salaires et promotions
+
+L’employeur peut individualiser les salaires et promotions, mais ces différences doivent reposer sur des critères objectifs. Les critères illégaux sont listés dans le code du travail.
+
+## Le respect de la vie privée et des libertés fondamentales
+
+### Le respect de la vie privée
+
+- **Les données personnelles du salarié** : Elles doivent être protégées.
+- **Le secret des correspondances** : Il est interdit de prendre connaissance des correspondances portant la mention "personnel".
+- **Droit à la déconnexion** : Le salarié a le droit de ne pas être dérangé en dehors de ses heures de travail.
+- **Liberté vestimentaire** : Chaque salarié peut s'habiller comme il le souhaite, sous réserve du respect des règles d’hygiène, de décence ou de l'image de marque de l’entreprise.
+- **Libre choix du domicile** : Le salarié peut choisir son domicile, sauf pour des raisons impérieuses de service.
+
+### Libertés inviolables du salarié
+
+- **Liberté d’opinion** : Le salarié n’a pas à dévoiler ses convictions et ne doit pas être influencé à ce sujet.
+- **Liberté d’expression** : Le salarié peut s’exprimer hors de l’entreprise, mais la diffamation ou le dénigrement à l'extérieur, ainsi que les propos gênant l'exécution du travail à l'intérieur, peuvent être sanctionnés.
+- **Liberté des convictions religieuses** : L’appartenance religieuse du salarié ne peut justifier aucune discrimination ou sanction. Toutefois, l’affichage des convictions religieuses (ex. par la tenue) peut être interdit pour des raisons portant atteinte à la liberté vestimentaire.
+
+### Restrictions aux droits et libertés fondamentales
+
+Seules sont admises par le droit du travail les restrictions justifiées par la nature de la tâche à accomplir.
+
+---
+
+# Sécurité au Travail
+
+L’employeur est responsable de la **protection de la santé** du salarié. Cela inclut la lutte contre les accidents du travail et les maladies professionnelles affectant la santé physique. Aujourd’hui, on reconnaît aussi les **troubles psychosociaux**, souvent dus au stress au travail, qui affectent la psychologie et le comportement des salariés. 
+
+L’employeur a une **obligation de sécurité** envers ses salariés et est au centre de la politique de prévention des risques. En cas de faute inexcusable de l'employeur (lorsqu'il aurait dû avoir conscience des risques encourus), la victime ou ses ayants droit peuvent obtenir une majoration de la rente versée par la sécurité sociale ainsi qu'une indemnisation supplémentaire pour les préjudices subis. L’employeur doit rembourser la sécurité sociale dans ce cas.
+
+---
+
+# Les Obligations de l’Employeur en Matière de Formation des Salariés
+
+Selon le **Code du travail**, l'employeur doit assurer l'adaptation des salariés à leur poste de travail et veiller à maintenir et développer leur employabilité. Les salariés doivent participer aux efforts de formation professionnelle. Le refus peut entraîner un **licenciement pour faute**.
+
+## Modalités de la Formation Professionnelle
+
+L’accès à la formation professionnelle est assuré à l’initiative de l’employeur dans le cadre du **plan de formation** et à l’initiative du salarié dans le cadre du **compte personnel de formation (CPF)**.
+
+### Le Plan de Formation
+
+Le plan de formation est établi chaque année par l'employeur. Il définit les actions de formation, les bilans de compétences et la validation des acquis de l'expérience.  
+Le plan est élaboré par l’employeur après consultation du **Comité Social et Économique (CSE)**.
