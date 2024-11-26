@@ -279,15 +279,67 @@ L’employeur a une **obligation de sécurité** envers ses salariés et est au 
 
 ---
 
-# Les Obligations de l’Employeur en Matière de Formation des Salariés
+# Les obligations de l’employeur en matière de formation des salariés
 
-Selon le **Code du travail**, l'employeur doit assurer l'adaptation des salariés à leur poste de travail et veiller à maintenir et développer leur employabilité. Les salariés doivent participer aux efforts de formation professionnelle. Le refus peut entraîner un **licenciement pour faute**.
+Selon le code du travail, l’employeur doit assurer l'adaptation des salariés à leur poste de travail et veiller à maintenir et à développer leur employabilité. Les salariés doivent accepter de participer aux efforts de formations professionnelles et tout refus peut être sanctionné par un licenciement pour faute.
 
-## Modalités de la Formation Professionnelle
+## 2. Modalités de la formation professionnelle
 
-L’accès à la formation professionnelle est assuré à l’initiative de l’employeur dans le cadre du **plan de formation** et à l’initiative du salarié dans le cadre du **compte personnel de formation (CPF)**.
+La loi prévoit que l’accès des salariés à la formation professionnelle tout au long de la vie est assuré :
 
-### Le Plan de Formation
+- À l’initiative de l’employeur dans le cadre du **plan de formation**.
+- À l’initiative du salarié dans le cadre du **CPF** (Compte Personnel de Formation).
 
-Le plan de formation est établi chaque année par l'employeur. Il définit les actions de formation, les bilans de compétences et la validation des acquis de l'expérience.  
-Le plan est élaboré par l’employeur après consultation du **Comité Social et Économique (CSE)**.
+### Plan de formation
+Le plan de formation est établi chaque année par l’employeur et définit les différentes actions de formations, de bilan de compétences et de validation des acquis de l'expérience. Ce plan est élaboré par l’employeur après consultation du **CSE** (Comité Social et Économique).
+
+### CPF
+Le CPF permet au salarié de se constituer une formation, il est alimenté en euros chaque année (500€) dans la limite de 5000€.
+
+## 3. La rupture du contrat de travail
+
+### La rupture à l’initiative du salarié : la démission
+
+Le salarié en CDI peut à tout moment décider unilatéralement de rompre son contrat de travail en **démissionnant**.
+
+#### Caractère de démission
+La jurisprudence exige que la démission ne fasse aucun doute, elle doit manifester une volonté claire, sérieuse et non équivoque du salarié. La démission doit être librement donnée ; s’il est amené à démissionner sous la contrainte, il peut après-coup demander au conseil de prud’hommes de requalifier la rupture en licenciement au tort de l’employeur.
+
+#### Les conséquences
+Le code du travail prévoit un **préavis** à la charge du salarié, cette durée dépend soit d’un accord collectif, soit des usages professionnels. Le salarié qui démissionne ne bénéficie pas d’**ARE** (Allocation Retour Emploi). Il peut cependant avoir l'ARE dans certains cas, comme pour suivre son conjoint, fuir le harcèlement ou fonder son entreprise.
+
+### Rupture à l'initiative de l’employeur
+
+L’employeur peut ajuster les effectifs à ses besoins pour des problèmes soit de qualité de prestation, soit de quantité de travail nécessaire à la production. La possibilité de licencier dépend de certaines conditions.
+
+#### L’obligation de justifier le licenciement
+
+- **La faute du salarié** : La faute légère ne constitue pas une faute sérieuse. La faute peut être grave si elle rend impossible le maintien du contrat de travail. La faute peut être lourde si elle révèle une intention de nuire à l’entreprise.
+- **Le fait non fautif du salarié** : Incompatibilité de caractère avec les autres, maladie prolongée si le remplacement définitif du salarié malade s’impose.
+- **Motif économique** : Suppression ou transformation d’emploi ou modification refusée par le salarié d’un élément essentiel du contrat de travail dû à des difficultés économiques, des mutations technologiques, une réorganisation de l’entreprise pour la sauvegarde de sa compétitivité ou la cessation de l’activité de l’entreprise.
+
+#### Sanction du licenciement sans cause réelle et sérieuse
+La sanction dépend des circonstances. Le juge peut prononcer sans imposer une réintégration du salarié. Si les parties refusent, la personne licenciée a droit à une indemnité selon deux critères : l’effectif de l’entreprise et l’ancienneté du salarié.
+
+## 4. L’obligation de respecter une procédure
+
+### Licenciement individuel
+- Convocation du salarié à un entretien préalable et lettre de notification de licenciement.
+- Si motif économique, proposer un reclassement.
+
+### Licenciement économique collectif
+- **De 2 à 9 salariés** : Convocation du CSE avec une réunion et procédure individuelle.
+- **Si +10 salariés** : Plan de sauvegarde de l’emploi doit être proposé par le chef d’entreprise, négocié avec les représentants syndicaux. En cas d’accord, le PSE est validé par la **DREETS** (Direction Régionale de l'Économie, de l'Emploi, du Travail et des Solidarités).
+
+#### Les conséquences
+- Pour 2 ans et plus d’ancienneté : règles légales de préavis minimum de 2 mois.
+- Pour 6 mois à 2 ans d’ancienneté : préavis de 6 mois.
+- Pour moins de 6 mois : préavis selon les conventions d’usage.
+
+## 5. La rupture voulue par l’employeur et le salarié : la rupture conventionnelle
+
+### Rupture conventionnelle homologuée
+Le législateur a créé un dispositif permettant de convenir de la rupture d’un CDI. Il doit y avoir plusieurs entretiens, avec des conditions de rupture du contrat, le montant de l'indemnité de rupture, et un délai de rétractation de 15 jours, adressé à la **DREETS**.
+
+### Rupture conventionnelle
+Cette rupture demande l’accord du licencié, des syndicats/CSE et doit être validée par la **DREETS**.
