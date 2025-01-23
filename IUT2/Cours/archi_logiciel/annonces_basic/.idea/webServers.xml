@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52c8a1cc-1622-4a6d-ad22-ef30c0d24ab3" name="TD1Archi">
+        <fileTransfer rootFolder="/home/gallou" accessType="SFTP" host="ssh-gallou.alwaysdata.net" port="22" sshConfigId="77fb577e-77a4-4149-9660-86ed65b3c5fd" sshConfig="gallou@ssh-gallou.alwaysdata.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
